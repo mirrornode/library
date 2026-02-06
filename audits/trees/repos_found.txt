@@ -1,0 +1,5 @@
+.
+./OSIRIS_VIP/mirrornode-py
+./mirrornode
+./mirrornode-index
+./mirrornode-py
